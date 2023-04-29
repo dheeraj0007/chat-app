@@ -13,7 +13,7 @@ npm install
 
 ## Connect to the chatengine.io 
 
-1. Make an account on [chatengine.io](www.chatengine.io)
+1. Make an account on [chatengine.io](https://www.chatengine.io)
 
 2. Create a project with a name of your choice .
 
